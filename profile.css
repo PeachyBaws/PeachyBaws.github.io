@@ -1,0 +1,22 @@
+.body{
+	background-image: url("img/manhattan.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.profilepic{
+	width: 100px;
+	height: 100px;
+
+}
+
+
+.progress{
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+}
+
+.fab{
+	font-size: 30px
+
+}
